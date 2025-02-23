@@ -1,7 +1,5 @@
 # 🚀 Number Converter
 
-![Number Converter](./image.png)
-
 ## 📖 About the Project
 The **Number Converter** is a simple yet efficient web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert numbers between **Decimal**, **Binary**, **Octal**, and **Hexadecimal** formats in real-time.
 
@@ -17,7 +15,8 @@ The **Number Converter** is a simple yet efficient web application built using *
 ## 📸 Preview
 Below is the interface of the Number Converter:
 
-![Number Converter Interface](./image.png)
+![numberconverter2](https://github.com/user-attachments/assets/fd851ad0-63dc-4bc9-9d04-cc1a1d732a78)
+![numberconverter](https://github.com/user-attachments/assets/79f73d75-346c-47f0-95f7-0c063b735b93)
 
 **Conversion Fields:**
 1. **Decimal:** Enter a base-10 number.
@@ -27,8 +26,7 @@ Below is the interface of the Number Converter:
 
 ---
 
-## ⚙️ Installation & Usage
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/number-converter.git
+## 🖱️ How to Use
+1. Enter a number in any of the fields (Decimal, Binary, Octal, or Hexadecimal).
+2. The other fields will update automatically based on the input.
+3. Make sure the entered value is valid for the selected number system.
