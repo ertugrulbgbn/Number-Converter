@@ -1,4 +1,4 @@
-# 🚀 Number Converter
+# ♻️ Number Converter
 
 ## 📖 About the Project
 The **Number Converter** is a simple yet efficient web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert numbers between **Decimal**, **Binary**, **Octal**, and **Hexadecimal** formats in real-time.
